@@ -35,6 +35,7 @@ This project applies **Ridge and Lasso Regression** to predict **house prices** 
 ## 📌 Key Findings
 ✅ Ridge Regression helped with overfitting.  
 ✅ Lasso Regression identified the most important features.  
+✅ Random Forests (parameters optimized with a basic grid search) gave lowest RMSE.
 
 ## 📩 Contact & Contributions
 For suggestions or improvements, feel free to **open an issue** or **submit a pull request**! 🚀
